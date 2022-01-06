@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5BB6354F-7A5A-4903-BB0A-30F9020F7F5A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WeatherForecast</RootNamespace>
+    <AssemblyName>WeatherForecast</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignColors, Version=1.2.3.1244, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialDesignColors.1.2.3\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=3.1.0.1244, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialDesignThemes.3.1.0\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Api\ApiHelper.cs" />
+    <Compile Include="Api\WeatherProcessor.cs" />
+    <Compile Include="Common\Converters\GraphicRenderTypeConverter.cs" />
+    <Compile Include="Common\Converters\GraphicVisibilityConverter.cs" />
+    <Compile Include="Common\Resources\Cities\LoadCities.cs" />
+    <Compile Include="Common\Shared\ImageConverters.cs" />
+    <Compile Include="Models\CityModel.cs" />
+    <Compile Include="Models\CoordinateModel.cs" />
+    <Compile Include="Models\CurrentWeatherModel.cs" />
+    <Compile Include="Models\DailyModel.cs" />
+    <Compile Include="Models\DailyTemp.cs" />
+    <Compile Include="Models\HourlyModel.cs" />
+    <Compile Include="Models\TempDailyModel.cs" />
+    <Compile Include="Models\WeatherDescriptionModel.cs" />
+    <Compile Include="Models\WeatherModel.cs" />
+    <Compile Include="Views\UserControls\CityWeatherForecastPresentation_UserControl.xaml.cs">
+      <DependentUpon>CityWeatherForecastPresentation_UserControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserControls\DailyInformations_UserControl.xaml.cs">
+      <DependentUpon>DailyInformations_UserControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Windows\CityWeatherDetail_Window.xaml.cs">
+      <DependentUpon>CityWeatherDetail_Window.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\Enumerations\EGraphRenderType.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Views\UserControls\CityWeatherForecastPresentation_UserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\UserControls\DailyInformations_UserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Windows\CityWeatherDetail_Window.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\TestModels\TestCityModel.cs" />
+    <Compile Include="Models\TestModels\TestModel1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Common\Resources\Cities\Json\cities.json" />
+    <None Include="cities1.json" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WeatherImages\10n1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Common\Resources\Icons\testIcon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\03d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\04d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Common\Resources\Images\skySun.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\WeatherImages\01d.jpg" />
+    <Resource Include="Resources\WeatherImages\01n.jpg" />
+    <Resource Include="Resources\WeatherImages\02d.jpg" />
+    <Resource Include="Resources\WeatherImages\02n.jpg" />
+    <Resource Include="Resources\WeatherImages\03d.jpg" />
+    <Resource Include="Resources\WeatherImages\03n.jpg" />
+    <Resource Include="Resources\WeatherImages\04d.jpg" />
+    <Resource Include="Resources\WeatherImages\04n.jpg" />
+    <Resource Include="Resources\WeatherImages\09d.jpg" />
+    <Resource Include="Resources\WeatherImages\10d.jpg" />
+    <Resource Include="Resources\WeatherImages\10n.jpg" />
+    <Resource Include="Resources\WeatherImages\11d.jpg" />
+    <Resource Include="Resources\WeatherImages\11n.jpg" />
+    <Resource Include="Resources\WeatherImages\12d.jpg" />
+    <Resource Include="Resources\WeatherImages\12n.jpg" />
+    <Resource Include="Resources\WeatherImages\50d.jpg" />
+    <Resource Include="Resources\WeatherImages\50n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WeatherImages\10n2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\01n.png" />
+    <Resource Include="Resources\02n.png" />
+    <Resource Include="Resources\03n.png" />
+    <Resource Include="Resources\04n.png" />
+    <Resource Include="Resources\09n.png" />
+    <Resource Include="Resources\10n.png" />
+    <Resource Include="Resources\11n.png" />
+    <Resource Include="Resources\13n.png" />
+    <Resource Include="Resources\50n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="02d.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\MaterialDesignThemes.3.1.0\build\MaterialDesignThemes.targets" Condition="Exists('packages\MaterialDesignThemes.3.1.0\build\MaterialDesignThemes.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\MaterialDesignThemes.3.1.0\build\MaterialDesignThemes.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\MaterialDesignThemes.3.1.0\build\MaterialDesignThemes.targets'))" />
+  </Target>
+</Project>

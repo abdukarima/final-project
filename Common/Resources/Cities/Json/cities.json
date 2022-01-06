@@ -1,0 +1,5743 @@
+[
+{
+    "id": 3183875,
+    "name": "Tirana",
+    "state": "",
+    "country": "AL",
+    "coord": {
+      "lon": 19.81889,
+      "lat": 41.327499
+    }
+},
+{
+    "id": 2761333,
+    "name": "Wien",
+    "state": "",
+    "country": "AT",
+    "coord": {
+      "lon": 16.373409,
+      "lat": 48.2066
+    }
+  },
+  {
+    "id": 2800866,
+    "name": "Brussels",
+    "state": "",
+    "country": "BE",
+    "coord": {
+      "lon": 4.34878,
+      "lat": 50.850449
+    }
+  },
+  {
+    "id": 727011,
+    "name": "Sofia",
+    "state": "",
+    "country": "BG",
+    "coord": {
+      "lon": 23.32415,
+      "lat": 42.69751
+    }
+  },
+  {
+    "id": 3067696,
+    "name": "Prague",
+    "state": "",
+    "country": "CZ",
+    "coord": {
+      "lon": 14.42076,
+      "lat": 50.088039
+    }
+  },
+  {
+    "id": 2618425,
+    "name": "Copenhagen",
+    "state": "",
+    "country": "DK",
+    "coord": {
+      "lon": 12.56553,
+      "lat": 55.675941
+    }
+  },
+   {
+    "id": 2950158,
+    "name": "Berlin",
+    "state": "",
+    "country": "DE",
+    "coord": {
+      "lon": 10.45,
+      "lat": 54.033329
+    }
+  },
+  {
+    "id": 588409,
+    "name": "Tallinn",
+    "state": "",
+    "country": "EE",
+    "coord": {
+      "lon": 24.753531,
+      "lat": 59.436958
+    }
+  },
+  {
+    "id": 2964574,
+    "name": "Dublin",
+    "state": "",
+    "country": "IE",
+    "coord": {
+      "lon": -6.26719,
+      "lat": 53.34399
+    }
+  },
+  {
+    "id": 264371,
+    "name": "Athens",
+    "state": "",
+    "country": "GR",
+    "coord": {
+      "lon": 23.716221,
+      "lat": 37.97945
+    }
+  },
+  {
+    "id": 3117735,
+    "name": "Madrid",
+    "state": "",
+    "country": "ES",
+    "coord": {
+      "lon": -3.70256,
+      "lat": 40.4165
+    }
+  },
+  {
+    "id": 6455259,
+    "name": "Paris",
+    "state": "",
+    "country": "FR",
+    "coord": {
+      "lon": 2.35236,
+      "lat": 48.856461
+    }
+  },
+  {
+    "id": 3186886,
+    "name": "Zagreb",
+    "state": "",
+    "country": "HR",
+    "coord": {
+      "lon": 15.97798,
+      "lat": 45.814442
+    }
+  },
+  {
+    "id": 3169071,
+    "name": "Roma",
+    "state": "",
+    "country": "IT",
+    "coord": {
+      "lon": 12.41667,
+      "lat": 41.900002
+    }
+  },
+  {
+    "id": 146268,
+    "name": "Nicosia",
+    "state": "",
+    "country": "CY",
+    "coord": {
+      "lon": 33.366669,
+      "lat": 35.166672
+    }
+  },
+  {
+    "id": 593116,
+    "name": "Vilnius",
+    "state": "",
+    "country": "LT",
+    "coord": {
+      "lon": 25.2798,
+      "lat": 54.689159
+    }
+  },
+    {
+    "id": 456172,
+    "name": "Riga",
+    "state": "",
+    "country": "LV",
+    "coord": {
+      "lon": 24.1,
+      "lat": 56.950001
+    }
+  },
+  {
+    "id": 2960315,
+    "name": "Luxembourg",
+    "state": "",
+    "country": "LU",
+    "coord": {
+      "lon": 6.13333,
+      "lat": 49.599998
+    }
+  },
+  {
+    "id": 3054638,
+    "name": "Budapest",
+    "state": "",
+    "country": "HU",
+    "coord": {
+      "lon": 19.08333,
+      "lat": 47.5
+    }
+  },
+  {
+    "id": 2562305,
+    "name": "Valletta",
+    "state": "",
+    "country": "MT",
+    "coord": {
+      "lon": 14.51472,
+      "lat": 35.899719
+    }
+  },
+   {
+    "id": 3143244,
+    "name": "Oslo",
+    "state": "",
+    "country": "NO",
+    "coord": {
+      "lon": 10.74609,
+      "lat": 59.912731
+    }
+  },
+  {
+    "id": 756135,
+    "name": "Warsaw",
+    "state": "",
+    "country": "PL",
+    "coord": {
+      "lon": 21.01178,
+      "lat": 52.229771
+    }
+  },
+  {
+    "id": 2267057,
+    "name": "Lisbon",
+    "state": "",
+    "country": "PT",
+    "coord": {
+      "lon": -9.13333,
+      "lat": 38.716671
+    }
+  },
+  {
+    "id": 683506,
+    "name": "Bucharest",
+    "state": "",
+    "country": "RO",
+    "coord": {
+      "lon": 26.10626,
+      "lat": 44.432251
+    }
+  },
+  {
+    "id": 3196359,
+    "name": "Ljubljana",
+    "state": "",
+    "country": "SI",
+    "coord": {
+      "lon": 14.50513,
+      "lat": 46.051079
+    }
+  },
+  {
+    "id": 3343955,
+    "name": "Bratislava",
+    "state": "",
+    "country": "SK",
+    "coord": {
+      "lon": 17.16667,
+      "lat": 48.333328
+    }
+  },
+  {
+    "id": 658225,
+    "name": "Helsinki",
+    "state": "",
+    "country": "FI",
+    "coord": {
+      "lon": 24.93545,
+      "lat": 60.16952
+    }
+  },
+  {
+    "id": 2673722,
+    "name": "Stockholm",
+    "state": "",
+    "country": "SE",
+    "coord": {
+      "lon": 18,
+      "lat": 59.5
+    }
+  },
+  {
+    "id": 2759794,
+    "name": "Amsterdam",
+    "state": "",
+    "country": "NL",
+    "coord": {
+      "lon": 4.88969,
+      "lat": 52.374031
+    }
+  },
+  {
+    "id": 6692263,
+    "name": "Reykjavik",
+    "state": "",
+    "country": "IS",
+    "coord": {
+      "lon": -21.85799,
+      "lat": 64.118401
+    }
+  },
+  {
+    "id": 3042030,
+    "name": "Vaduz",
+    "state": "",
+    "country": "LI",
+    "coord": {
+      "lon": 9.52154,
+      "lat": 47.14151
+    }
+  },
+  {
+    "id": 2661552,
+    "name": "Bern",
+    "state": "",
+    "country": "CH",
+    "coord": {
+      "lon": 7.44744,
+      "lat": 46.94809
+    }
+  },
+  {
+    "id": 3189077,
+    "name": "Podgorica",
+    "state": "",
+    "country": "ME",
+    "coord": {
+      "lon": 19.33333,
+      "lat": 42.5
+    }
+  },
+  {
+    "id": 785842,
+    "name": "Skopje",
+    "state": "",
+    "country": "MK",
+    "coord": {
+      "lon": 21.433331,
+      "lat": 42
+    }
+  },
+  {
+    "id": 323784,
+    "name": "Ankara",
+    "state": "",
+    "country": "TR",
+    "coord": {
+      "lon": 32.833328,
+      "lat": 39.916672
+    }
+  },
+  {
+    "id": 786714,
+    "name": "Pristina",
+    "state": "",
+    "country": "XK",
+    "coord": {
+      "lon": 21.16688,
+      "lat": 42.672722
+    }
+  },
+  {
+    "id": 3191281,
+    "name": "Sarajevo",
+    "state": "",
+    "country": "BA",
+    "coord": {
+      "lon": 18.35644,
+      "lat": 43.84864
+    }
+  },
+  {
+    "id": 616051,
+    "name": "Yerevan",
+    "state": "",
+    "country": "AM",
+    "coord": {
+      "lon": 44.5,
+      "lat": 40.183331
+    }
+  },
+  {
+    "id": 587084,
+    "name": "Baku",
+    "state": "",
+    "country": "AZ",
+    "coord": {
+      "lon": 49.89201,
+      "lat": 40.37767
+    }
+  },
+  {
+    "id": 625144,
+    "name": "Minsk",
+    "state": "",
+    "country": "BY",
+    "coord": {
+      "lon": 27.566668,
+      "lat": 53.900002
+    }
+  },
+  {
+    "id": 618426,
+    "name": "Chisinau",
+    "state": "",
+    "country": "MD",
+    "coord": {
+      "lon": 28.8575,
+      "lat": 47.005562
+    }
+  },
+  {
+    "id": 611717,
+    "name": "Tbilisi",
+    "state": "",
+    "country": "GE",
+    "coord": {
+      "lon": 44.833679,
+      "lat": 41.694111
+    }
+  },
+  {
+    "id": 703448,
+    "name": "Kyiv",
+    "state": "",
+    "country": "UA",
+    "coord": {
+      "lon": 30.516666,
+      "lat": 50.433334
+    }
+  },
+  {
+    "id": 524894,
+    "name": "Moscow",
+    "state": "",
+    "country": "RU",
+    "coord": {
+      "lon": 37.606667,
+      "lat": 55.761665
+    }
+  },
+  {
+    "id": 2643743,
+    "name": "London",
+    "state": "",
+    "country": "GB",
+    "coord": {
+      "lon": -0.12574,
+      "lat": 51.50853
+    }
+  },
+  
+  {
+    "id": 783768,
+    "name": "Zvečka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.164721,
+      "lat": 44.638889
+    }
+  },
+  {
+    "id": 783793,
+    "name": "Žujince",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.701941,
+      "lat": 42.315281
+    }
+  },
+  {
+    "id": 783814,
+    "name": "Zrenjanin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.381941,
+      "lat": 45.38361
+    }
+  },
+  {
+    "id": 783880,
+    "name": "Žitorađa",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.71306,
+      "lat": 43.189999
+    }
+  },
+  {
+    "id": 783887,
+    "name": "Žitište",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.549721,
+      "lat": 45.485001
+    }
+  },
+  {
+    "id": 783920,
+    "name": "Zemun",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.40111,
+      "lat": 44.84306
+    }
+  },
+  {
+    "id": 784024,
+    "name": "Zaječar",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.26405,
+      "lat": 43.90358
+    }
+  },
+  {
+    "id": 784031,
+    "name": "Žagubica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.78838,
+      "lat": 44.19685
+    }
+  },
+  {
+    "id": 784064,
+    "name": "Žabari",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.215,
+      "lat": 44.35611
+    }
+  },
+  {
+    "id": 784068,
+    "name": "Žabalj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.06389,
+      "lat": 45.372219
+    }
+  },
+  {
+    "id": 784091,
+    "name": "Vučje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.91139,
+      "lat": 42.86528
+    }
+  },
+  {
+    "id": 784136,
+    "name": "Vršac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.30361,
+      "lat": 45.116669
+    }
+  },
+  {
+    "id": 784141,
+    "name": "Vrnjačka Banja",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.9,
+      "lat": 43.616669
+    }
+  },
+  {
+    "id": 784222,
+    "name": "Vranjska Banja",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.99222,
+      "lat": 42.555
+    }
+  },
+  {
+    "id": 784227,
+    "name": "Vranje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.90028,
+      "lat": 42.551392
+    }
+  },
+  {
+    "id": 784236,
+    "name": "Vranić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.326111,
+      "lat": 44.601391
+    }
+  },
+  {
+    "id": 784252,
+    "name": "Vračar",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.474911,
+      "lat": 44.792561
+    }
+  },
+  {
+    "id": 784274,
+    "name": "Vojvoda Stepa",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.654169,
+      "lat": 45.680828
+    }
+  },
+  {
+    "id": 784288,
+    "name": "Vojka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.153891,
+      "lat": 44.93972
+    }
+  },
+  {
+    "id": 784318,
+    "name": "Vlasotince",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.12306,
+      "lat": 42.963612
+    }
+  },
+  {
+    "id": 784344,
+    "name": "Vlajkovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.200279,
+      "lat": 45.074718
+    }
+  },
+  {
+    "id": 784352,
+    "name": "Vladimirovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.86389,
+      "lat": 45.033058
+    }
+  },
+  {
+    "id": 784355,
+    "name": "Vladičin Han",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.06333,
+      "lat": 42.707779
+    }
+  },
+  {
+    "id": 784427,
+    "name": "Vinča",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.61972,
+      "lat": 44.759998
+    }
+  },
+  {
+    "id": 784434,
+    "name": "Vilovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.157499,
+      "lat": 45.247501
+    }
+  },
+  {
+    "id": 784519,
+    "name": "Veliko Središte",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.40583,
+      "lat": 45.17778
+    }
+  },
+  {
+    "id": 784535,
+    "name": "Veliko Gradište",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.513611,
+      "lat": 44.756672
+    }
+  },
+  {
+    "id": 784570,
+    "name": "Veliki Mokri Lug",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.529169,
+      "lat": 44.75861
+    }
+  },
+  {
+    "id": 784588,
+    "name": "Veliki Gaj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.172501,
+      "lat": 45.285561
+    }
+  },
+  {
+    "id": 784592,
+    "name": "Veliki Crljeni",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.284439,
+      "lat": 44.467499
+    }
+  },
+  {
+    "id": 784604,
+    "name": "Aleksandrovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.592779,
+      "lat": 45.63694
+    }
+  },
+  {
+    "id": 784630,
+    "name": "Velika Plana",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.076759,
+      "lat": 44.333889
+    }
+  },
+  {
+    "id": 784635,
+    "name": "Velika Moštanica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.353609,
+      "lat": 44.66333
+    }
+  },
+  {
+    "id": 784644,
+    "name": "Velika Krsna",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.805,
+      "lat": 44.478329
+    }
+  },
+  {
+    "id": 784661,
+    "name": "Velika Greda",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.029169,
+      "lat": 45.243328
+    }
+  },
+  {
+    "id": 784666,
+    "name": "Velika Drenova",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.13278,
+      "lat": 43.628059
+    }
+  },
+  {
+    "id": 784704,
+    "name": "Varvarin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.3624,
+      "lat": 43.723969
+    }
+  },
+  {
+    "id": 784745,
+    "name": "Uzdin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.620001,
+      "lat": 45.204441
+    }
+  },
+  {
+    "id": 784764,
+    "name": "Umka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.30472,
+      "lat": 44.678059
+    }
+  },
+  {
+    "id": 784771,
+    "name": "Uljma",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.156111,
+      "lat": 45.041111
+    }
+  },
+  {
+    "id": 784779,
+    "name": "Ugrinovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.186939,
+      "lat": 44.87833
+    }
+  },
+  {
+    "id": 784795,
+    "name": "Ub",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.073891,
+      "lat": 44.456108
+    }
+  },
+  {
+    "id": 784800,
+    "name": "Tutin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.33139,
+      "lat": 42.99028
+    }
+  },
+  {
+    "id": 784820,
+    "name": "Turija",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.64028,
+      "lat": 44.524441
+    }
+  },
+  {
+    "id": 784873,
+    "name": "Trstenik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.002501,
+      "lat": 43.61694
+    }
+  },
+  {
+    "id": 784946,
+    "name": "Trgovište",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.0825,
+      "lat": 42.36417
+    }
+  },
+  {
+    "id": 784991,
+    "name": "Torda",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.4575,
+      "lat": 45.58556
+    }
+  },
+  {
+    "id": 785013,
+    "name": "Topola",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.682501,
+      "lat": 44.254169
+    }
+  },
+  {
+    "id": 785041,
+    "name": "Tomaševac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.620831,
+      "lat": 45.26778
+    }
+  },
+  {
+    "id": 785053,
+    "name": "Toba",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.55611,
+      "lat": 45.687778
+    }
+  },
+  {
+    "id": 785062,
+    "name": "Titel",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.294439,
+      "lat": 45.206108
+    }
+  },
+  {
+    "id": 785077,
+    "name": "Tićevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.25639,
+      "lat": 44.461941
+    }
+  },
+  {
+    "id": 785125,
+    "name": "Taraš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.198059,
+      "lat": 45.46806
+    }
+  },
+  {
+    "id": 785164,
+    "name": "Svrljig",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.121111,
+      "lat": 43.41333
+    }
+  },
+  {
+    "id": 785184,
+    "name": "Svilajnac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.196699,
+      "lat": 44.2337
+    }
+  },
+  {
+    "id": 785252,
+    "name": "Sutjeska",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.698891,
+      "lat": 45.384171
+    }
+  },
+  {
+    "id": 785285,
+    "name": "Surdulica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.17083,
+      "lat": 42.690559
+    }
+  },
+  {
+    "id": 785287,
+    "name": "Surduk",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.31889,
+      "lat": 45.075279
+    }
+  },
+  {
+    "id": 785288,
+    "name": "Surčin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.280279,
+      "lat": 44.79306
+    }
+  },
+  {
+    "id": 785305,
+    "name": "Šumarak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.139999,
+      "lat": 44.821388
+    }
+  },
+  {
+    "id": 785358,
+    "name": "Stubline",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.14139,
+      "lat": 44.573891
+    }
+  },
+  {
+    "id": 785450,
+    "name": "Stragari",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.137779,
+      "lat": 43.65361
+    }
+  },
+  {
+    "id": 785489,
+    "name": "Stepojevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.295,
+      "lat": 44.512779
+    }
+  },
+  {
+    "id": 785530,
+    "name": "Stari Lec",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.96306,
+      "lat": 45.283611
+    }
+  },
+  {
+    "id": 785541,
+    "name": "Stari Banovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.286671,
+      "lat": 44.986389
+    }
+  },
+  {
+    "id": 785559,
+    "name": "Stara Pazova",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.16083,
+      "lat": 44.985001
+    }
+  },
+  {
+    "id": 785574,
+    "name": "Stanovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.883329,
+      "lat": 44.006939
+    }
+  },
+  {
+    "id": 785598,
+    "name": "Stajićevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.456671,
+      "lat": 45.293892
+    }
+  },
+  {
+    "id": 785600,
+    "name": "Srpski Itebej",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.71361,
+      "lat": 45.57
+    }
+  },
+  {
+    "id": 785603,
+    "name": "Srpska Crnja",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.68861,
+      "lat": 45.723331
+    }
+  },
+  {
+    "id": 785614,
+    "name": "Sremski Mihaljevci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.044439,
+      "lat": 44.85833
+    }
+  },
+  {
+    "id": 785615,
+    "name": "Sremčica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.392321,
+      "lat": 44.676529
+    }
+  },
+  {
+    "id": 785671,
+    "name": "Sopot",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.57361,
+      "lat": 44.519718
+    }
+  },
+  {
+    "id": 785704,
+    "name": "Soko Banja",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.871111,
+      "lat": 43.64333
+    }
+  },
+  {
+    "id": 785753,
+    "name": "Smederevska Palanka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.958851,
+      "lat": 44.365479
+    }
+  },
+  {
+    "id": 785756,
+    "name": "Smederevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.93,
+      "lat": 44.662781
+    }
+  },
+  {
+    "id": 785839,
+    "name": "Skorenovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.90444,
+      "lat": 44.764721
+    }
+  },
+  {
+    "id": 785903,
+    "name": "Šimanovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.091669,
+      "lat": 44.872501
+    }
+  },
+  {
+    "id": 785941,
+    "name": "Ševica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.726669,
+      "lat": 44.5
+    }
+  },
+  {
+    "id": 785958,
+    "name": "Central Serbia",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.0,
+      "lat": 44.0
+    }
+  },
+  {
+    "id": 785965,
+    "name": "Senta",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.077221,
+      "lat": 45.927502
+    }
+  },
+  {
+    "id": 785973,
+    "name": "Senjak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.433331,
+      "lat": 44.783329
+    }
+  },
+  {
+    "id": 786001,
+    "name": "Seleuš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.915831,
+      "lat": 45.12722
+    }
+  },
+  {
+    "id": 786021,
+    "name": "Sefkerin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.48278,
+      "lat": 45.004719
+    }
+  },
+  {
+    "id": 786035,
+    "name": "Sečanj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.772221,
+      "lat": 45.366669
+    }
+  },
+  {
+    "id": 786100,
+    "name": "Šapine",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.363331,
+      "lat": 44.572498
+    }
+  },
+  {
+    "id": 786106,
+    "name": "Sanad",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.10778,
+      "lat": 45.976109
+    }
+  },
+  {
+    "id": 786109,
+    "name": "Samoš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.772221,
+      "lat": 45.203892
+    }
+  },
+  {
+    "id": 786111,
+    "name": "Samoljica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.74472,
+      "lat": 42.381939
+    }
+  },
+  {
+    "id": 786137,
+    "name": "Sakule",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.485559,
+      "lat": 45.146111
+    }
+  },
+  {
+    "id": 786142,
+    "name": "Šajkaš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.08972,
+      "lat": 45.272221
+    }
+  },
+  {
+    "id": 786146,
+    "name": "Sajan",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.27833,
+      "lat": 45.84444
+    }
+  },
+  {
+    "id": 786175,
+    "name": "Rušanj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.44993,
+      "lat": 44.684769
+    }
+  },
+  {
+    "id": 786358,
+    "name": "Rekovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.09667,
+      "lat": 43.861671
+    }
+  },
+  {
+    "id": 786390,
+    "name": "Ražanj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.54944,
+      "lat": 43.672218
+    }
+  },
+  {
+    "id": 786395,
+    "name": "Ravni Topolovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.56917,
+      "lat": 45.458889
+    }
+  },
+  {
+    "id": 786498,
+    "name": "Ralja",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.56222,
+      "lat": 44.57222
+    }
+  },
+  {
+    "id": 786500,
+    "name": "Rakovica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.441389,
+      "lat": 44.74194
+    }
+  },
+  {
+    "id": 786532,
+    "name": "Rajince",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.69556,
+      "lat": 42.379169
+    }
+  },
+  {
+    "id": 786562,
+    "name": "Radovnica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.22694,
+      "lat": 42.415562
+    }
+  },
+  {
+    "id": 786583,
+    "name": "Radojevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.789169,
+      "lat": 45.746941
+    }
+  },
+  {
+    "id": 786615,
+    "name": "Radenka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.764441,
+      "lat": 44.583611
+    }
+  },
+  {
+    "id": 786620,
+    "name": "Radaljevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.15,
+      "lat": 43.650002
+    }
+  },
+  {
+    "id": 786624,
+    "name": "Rača",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.977539,
+      "lat": 44.227119
+    }
+  },
+  {
+    "id": 786690,
+    "name": "Prokuplje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.58806,
+      "lat": 43.234169
+    }
+  },
+  {
+    "id": 786697,
+    "name": "Progar",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.16139,
+      "lat": 44.715
+    }
+  },
+  {
+    "id": 786772,
+    "name": "Preševo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.64917,
+      "lat": 42.30917
+    }
+  },
+  {
+    "id": 786806,
+    "name": "Predejane",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.131109,
+      "lat": 42.829441
+    }
+  },
+  {
+    "id": 786819,
+    "name": "Prahovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.592779,
+      "lat": 44.292221
+    }
+  },
+  {
+    "id": 786824,
+    "name": "Požega",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.041389,
+      "lat": 43.84639
+    }
+  },
+  {
+    "id": 786827,
+    "name": "Požarevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.182501,
+      "lat": 44.61528
+    }
+  },
+  {
+    "id": 786884,
+    "name": "Popinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.01306,
+      "lat": 44.92778
+    }
+  },
+  {
+    "id": 787032,
+    "name": "Plandište",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.12167,
+      "lat": 45.227219
+    }
+  },
+  {
+    "id": 787050,
+    "name": "Pirot",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.586109,
+      "lat": 43.153061
+    }
+  },
+  {
+    "id": 787058,
+    "name": "Pinosava",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.480829,
+      "lat": 44.695278
+    }
+  },
+  {
+    "id": 787078,
+    "name": "Petrovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.41917,
+      "lat": 44.376942
+    }
+  },
+  {
+    "id": 787123,
+    "name": "Perlez",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.38139,
+      "lat": 45.208061
+    }
+  },
+  {
+    "id": 787164,
+    "name": "Pavliš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.240829,
+      "lat": 45.102779
+    }
+  },
+  {
+    "id": 787215,
+    "name": "Paraćin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.40778,
+      "lat": 43.860828
+    }
+  },
+  {
+    "id": 787236,
+    "name": "Pančevo-grad",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.718889,
+      "lat": 44.838329
+    }
+  },
+  {
+    "id": 787237,
+    "name": "Pančevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.64028,
+      "lat": 44.870831
+    }
+  },
+  {
+    "id": 787271,
+    "name": "Padina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.727221,
+      "lat": 45.118061
+    }
+  },
+  {
+    "id": 787274,
+    "name": "Padej",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.166109,
+      "lat": 45.828892
+    }
+  },
+  {
+    "id": 787296,
+    "name": "Ovča",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.53336,
+      "lat": 44.883492
+    }
+  },
+  {
+    "id": 787306,
+    "name": "Ostružnica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.31917,
+      "lat": 44.728329
+    }
+  },
+  {
+    "id": 787341,
+    "name": "Ostojićevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.164169,
+      "lat": 45.890831
+    }
+  },
+  {
+    "id": 787384,
+    "name": "Orom Breg",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.022779,
+      "lat": 45.860001
+    }
+  },
+  {
+    "id": 787391,
+    "name": "Orlovat",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.58222,
+      "lat": 45.243328
+    }
+  },
+  {
+    "id": 787461,
+    "name": "Opovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.430281,
+      "lat": 45.052219
+    }
+  },
+  {
+    "id": 787471,
+    "name": "Omoljica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.72806,
+      "lat": 44.760559
+    }
+  },
+  {
+    "id": 787516,
+    "name": "Obrenovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.200171,
+      "lat": 44.654861
+    }
+  },
+  {
+    "id": 787584,
+    "name": "Novo Miloševo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.303061,
+      "lat": 45.721668
+    }
+  },
+  {
+    "id": 787592,
+    "name": "Novi Slankamen",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.239441,
+      "lat": 45.125278
+    }
+  },
+  {
+    "id": 787595,
+    "name": "Novi Pazar",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.51222,
+      "lat": 43.136669
+    }
+  },
+  {
+    "id": 787597,
+    "name": "Kozjak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.864719,
+      "lat": 45.184441
+    }
+  },
+  {
+    "id": 787598,
+    "name": "Novi Kozarci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.622219,
+      "lat": 45.78167
+    }
+  },
+  {
+    "id": 787600,
+    "name": "Novi Kneževac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.1,
+      "lat": 46.049999
+    }
+  },
+  {
+    "id": 787601,
+    "name": "Novi Karlovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.17667,
+      "lat": 45.08028
+    }
+  },
+  {
+    "id": 787602,
+    "name": "Novi Itebej",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.694441,
+      "lat": 45.559441
+    }
+  },
+  {
+    "id": 787607,
+    "name": "Novi Beograd",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.42417,
+      "lat": 44.805561
+    }
+  },
+  {
+    "id": 787610,
+    "name": "Novi Bečej",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.135559,
+      "lat": 45.59861
+    }
+  },
+  {
+    "id": 787612,
+    "name": "Novi Banovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.28194,
+      "lat": 44.95472
+    }
+  },
+  {
+    "id": 787615,
+    "name": "Nova Pazova",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.219311,
+      "lat": 44.943661
+    }
+  },
+  {
+    "id": 787621,
+    "name": "Nova Crnja",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.605,
+      "lat": 45.668331
+    }
+  },
+  {
+    "id": 787657,
+    "name": "Niš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.90333,
+      "lat": 43.324718
+    }
+  },
+  {
+    "id": 787663,
+    "name": "Nikolinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.067221,
+      "lat": 45.049438
+    }
+  },
+  {
+    "id": 787682,
+    "name": "Neuzina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.712219,
+      "lat": 45.34417
+    }
+  },
+  {
+    "id": 787689,
+    "name": "Neresnica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.72583,
+      "lat": 44.442501
+    }
+  },
+  {
+    "id": 787718,
+    "name": "Negotin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.53083,
+      "lat": 44.226391
+    }
+  },
+  {
+    "id": 787743,
+    "name": "Nakovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.567221,
+      "lat": 45.87389
+    }
+  },
+  {
+    "id": 787747,
+    "name": "Adorjan",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.040279,
+      "lat": 45.997219
+    }
+  },
+  {
+    "id": 787837,
+    "name": "Mošorin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.164721,
+      "lat": 45.302502
+    }
+  },
+  {
+    "id": 787855,
+    "name": "Mol",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.131109,
+      "lat": 45.764172
+    }
+  },
+  {
+    "id": 787857,
+    "name": "Mokrin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.407221,
+      "lat": 45.935829
+    }
+  },
+  {
+    "id": 787893,
+    "name": "Mladenovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.699169,
+      "lat": 44.43861
+    }
+  },
+  {
+    "id": 787925,
+    "name": "Mirijevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.526939,
+      "lat": 44.793892
+    }
+  },
+  {
+    "id": 787929,
+    "name": "Miratovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.66361,
+      "lat": 42.259441
+    }
+  },
+  {
+    "id": 787935,
+    "name": "Mionica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.081671,
+      "lat": 44.251942
+    }
+  },
+  {
+    "id": 787998,
+    "name": "Mihajlovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.41444,
+      "lat": 45.47028
+    }
+  },
+  {
+    "id": 788026,
+    "name": "Merošina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.7204,
+      "lat": 43.283581
+    }
+  },
+  {
+    "id": 788038,
+    "name": "Meljak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.36306,
+      "lat": 44.618061
+    }
+  },
+  {
+    "id": 788040,
+    "name": "Melenci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.317221,
+      "lat": 45.513889
+    }
+  },
+  {
+    "id": 788057,
+    "name": "Medveđa",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.58333,
+      "lat": 42.84306
+    }
+  },
+  {
+    "id": 788073,
+    "name": "Međa",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.80694,
+      "lat": 45.535831
+    }
+  },
+  {
+    "id": 788120,
+    "name": "Martonoš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.049999,
+      "lat": 46.116669
+    }
+  },
+  {
+    "id": 788147,
+    "name": "Marina Kutina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.023331,
+      "lat": 43.200001
+    }
+  },
+  {
+    "id": 788153,
+    "name": "Margita",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.17556,
+      "lat": 45.21806
+    }
+  },
+  {
+    "id": 788218,
+    "name": "Malo Crniće",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.285561,
+      "lat": 44.55611
+    }
+  },
+  {
+    "id": 788315,
+    "name": "Mala Moštanica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.30278,
+      "lat": 44.646111
+    }
+  },
+  {
+    "id": 788357,
+    "name": "Majdanpek",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.945959,
+      "lat": 44.427711
+    }
+  },
+  {
+    "id": 788421,
+    "name": "Lukićevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.49889,
+      "lat": 45.338612
+    }
+  },
+  {
+    "id": 788439,
+    "name": "Lugavčina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.068331,
+      "lat": 44.51889
+    }
+  },
+  {
+    "id": 788452,
+    "name": "Lučani",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.13806,
+      "lat": 43.860828
+    }
+  },
+  {
+    "id": 788507,
+    "name": "Lokve",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.031111,
+      "lat": 45.152779
+    }
+  },
+  {
+    "id": 788515,
+    "name": "Lok",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.212219,
+      "lat": 45.215832
+    }
+  },
+  {
+    "id": 788539,
+    "name": "Ljukovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.025,
+      "lat": 45.025829
+    }
+  },
+  {
+    "id": 788584,
+    "name": "Ljig",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.23819,
+      "lat": 44.230068
+    }
+  },
+  {
+    "id": 788709,
+    "name": "Leskovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.94611,
+      "lat": 42.998058
+    }
+  },
+  {
+    "id": 788762,
+    "name": "Lebane",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.737499,
+      "lat": 42.923889
+    }
+  },
+  {
+    "id": 788768,
+    "name": "Lazarevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.538891,
+      "lat": 45.388329
+    }
+  },
+  {
+    "id": 788771,
+    "name": "Lazarevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.255699,
+      "lat": 44.385342
+    }
+  },
+  {
+    "id": 788792,
+    "name": "Lapovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.097269,
+      "lat": 44.184238
+    }
+  },
+  {
+    "id": 788804,
+    "name": "Lalinac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.78528,
+      "lat": 43.341942
+    }
+  },
+  {
+    "id": 788812,
+    "name": "Lajkovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.165279,
+      "lat": 44.369438
+    }
+  },
+  {
+    "id": 788838,
+    "name": "Kuštilj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.37722,
+      "lat": 45.035278
+    }
+  },
+  {
+    "id": 788848,
+    "name": "Kusadak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.803329,
+      "lat": 44.399719
+    }
+  },
+  {
+    "id": 788852,
+    "name": "Kuršumlija",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.26861,
+      "lat": 43.145828
+    }
+  },
+  {
+    "id": 788868,
+    "name": "Kupinovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.048059,
+      "lat": 44.705559
+    }
+  },
+  {
+    "id": 788890,
+    "name": "Kumane",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.228331,
+      "lat": 45.538891
+    }
+  },
+  {
+    "id": 788937,
+    "name": "Kučevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.67,
+      "lat": 44.477501
+    }
+  },
+  {
+    "id": 788975,
+    "name": "Kruševac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.333891,
+      "lat": 43.580002
+    }
+  },
+  {
+    "id": 788993,
+    "name": "Krstur",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.1,
+      "lat": 46.133331
+    }
+  },
+  {
+    "id": 789019,
+    "name": "Krnjevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.04694,
+      "lat": 44.409439
+    }
+  },
+  {
+    "id": 789021,
+    "name": "Krnješevci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.135281,
+      "lat": 44.886391
+    }
+  },
+  {
+    "id": 789076,
+    "name": "Krčedin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.132219,
+      "lat": 45.139999
+    }
+  },
+  {
+    "id": 789107,
+    "name": "Kraljevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.68944,
+      "lat": 43.72583
+    }
+  },
+  {
+    "id": 789124,
+    "name": "Krajišnik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.72917,
+      "lat": 45.452782
+    }
+  },
+  {
+    "id": 789128,
+    "name": "Kragujevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.91667,
+      "lat": 44.01667
+    }
+  },
+  {
+    "id": 789168,
+    "name": "Kovin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.97611,
+      "lat": 44.747501
+    }
+  },
+  {
+    "id": 789170,
+    "name": "Kovilj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.021669,
+      "lat": 45.227779
+    }
+  },
+  {
+    "id": 789178,
+    "name": "Kovačica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.621389,
+      "lat": 45.111671
+    }
+  },
+  {
+    "id": 789234,
+    "name": "Kosmovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.203609,
+      "lat": 43.190559
+    }
+  },
+  {
+    "id": 789346,
+    "name": "Konak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.91361,
+      "lat": 45.314999
+    }
+  },
+  {
+    "id": 789415,
+    "name": "Knićanin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.31889,
+      "lat": 45.1875
+    }
+  },
+  {
+    "id": 789421,
+    "name": "Knežica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.878611,
+      "lat": 43.259441
+    }
+  },
+  {
+    "id": 789471,
+    "name": "Klek",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.48,
+      "lat": 45.42194
+    }
+  },
+  {
+    "id": 789485,
+    "name": "Kladovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.61194,
+      "lat": 44.60667
+    }
+  },
+  {
+    "id": 789518,
+    "name": "Kikinda",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.465281,
+      "lat": 45.82972
+    }
+  },
+  {
+    "id": 789600,
+    "name": "Kanjiža",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.049999,
+      "lat": 46.066669
+    }
+  },
+  {
+    "id": 789787,
+    "name": "Jermenovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.047779,
+      "lat": 45.188061
+    }
+  },
+  {
+    "id": 789828,
+    "name": "Jazovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.216391,
+      "lat": 45.9025
+    }
+  },
+  {
+    "id": 789875,
+    "name": "Jaša Tomić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.85528,
+      "lat": 45.446941
+    }
+  },
+  {
+    "id": 789879,
+    "name": "Jarkovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.025,
+      "lat": 45.054169
+    }
+  },
+  {
+    "id": 789880,
+    "name": "Jarkovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.758329,
+      "lat": 45.26889
+    }
+  },
+  {
+    "id": 789888,
+    "name": "Janošik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.008329,
+      "lat": 45.173611
+    }
+  },
+  {
+    "id": 789923,
+    "name": "Jagodina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.26222,
+      "lat": 43.981392
+    }
+  },
+  {
+    "id": 789972,
+    "name": "Izbište",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.18639,
+      "lat": 45.019718
+    }
+  },
+  {
+    "id": 789982,
+    "name": "Ivanovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.6975,
+      "lat": 44.73917
+    }
+  },
+  {
+    "id": 789988,
+    "name": "Ivanjica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.23111,
+      "lat": 43.58028
+    }
+  },
+  {
+    "id": 790015,
+    "name": "Inđija",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.07917,
+      "lat": 45.049171
+    }
+  },
+  {
+    "id": 790028,
+    "name": "Ilandža",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.919439,
+      "lat": 45.169441
+    }
+  },
+  {
+    "id": 790033,
+    "name": "Idvor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.51417,
+      "lat": 45.188889
+    }
+  },
+  {
+    "id": 790035,
+    "name": "Tiszahegyes",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.316111,
+      "lat": 45.828892
+    }
+  },
+  {
+    "id": 790053,
+    "name": "Hetin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.791389,
+      "lat": 45.661388
+    }
+  },
+  {
+    "id": 790063,
+    "name": "Hajdučica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.95722,
+      "lat": 45.249168
+    }
+  },
+  {
+    "id": 790104,
+    "name": "Gudurica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.44306,
+      "lat": 45.17028
+    }
+  },
+  {
+    "id": 790106,
+    "name": "Guča",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.225281,
+      "lat": 43.776669
+    }
+  },
+  {
+    "id": 790132,
+    "name": "Grocka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.717501,
+      "lat": 44.672218
+    }
+  },
+  {
+    "id": 790277,
+    "name": "Grabovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.104719,
+      "lat": 44.601391
+    }
+  },
+  {
+    "id": 790367,
+    "name": "Gornji Milanovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.450001,
+      "lat": 44.033329
+    }
+  },
+  {
+    "id": 790394,
+    "name": "Gornji Breg",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.01667,
+      "lat": 45.91917
+    }
+  },
+  {
+    "id": 790426,
+    "name": "Gornje Međurovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.846939,
+      "lat": 43.277222
+    }
+  },
+  {
+    "id": 790475,
+    "name": "Gornja Peščanica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.594999,
+      "lat": 43.521111
+    }
+  },
+  {
+    "id": 790557,
+    "name": "Golubinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.06889,
+      "lat": 44.985001
+    }
+  },
+  {
+    "id": 790560,
+    "name": "Golubac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.63199,
+      "lat": 44.652962
+    }
+  },
+  {
+    "id": 790698,
+    "name": "Glogovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.316389,
+      "lat": 44.039719
+    }
+  },
+  {
+    "id": 790702,
+    "name": "Glogonj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.52611,
+      "lat": 44.987499
+    }
+  },
+  {
+    "id": 790772,
+    "name": "Gardinovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.135281,
+      "lat": 45.203331
+    }
+  },
+  {
+    "id": 790795,
+    "name": "Gadžin Han",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.03194,
+      "lat": 43.222778
+    }
+  },
+  {
+    "id": 790823,
+    "name": "Farkaždin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.471939,
+      "lat": 45.191669
+    }
+  },
+  {
+    "id": 790842,
+    "name": "Elemir",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.298059,
+      "lat": 45.44278
+    }
+  },
+  {
+    "id": 790847,
+    "name": "Ečka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.44278,
+      "lat": 45.318611
+    }
+  },
+  {
+    "id": 790898,
+    "name": "Ðurđevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.06472,
+      "lat": 45.324718
+    }
+  },
+  {
+    "id": 790983,
+    "name": "Duboka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.76083,
+      "lat": 44.521389
+    }
+  },
+  {
+    "id": 790986,
+    "name": "Dubočka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.375,
+      "lat": 44.444439
+    }
+  },
+  {
+    "id": 791148,
+    "name": "Dorćol",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.466669,
+      "lat": 44.816669
+    }
+  },
+  {
+    "id": 791231,
+    "name": "Donje Međurovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.82222,
+      "lat": 43.296669
+    }
+  },
+  {
+    "id": 791321,
+    "name": "Dolovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.877501,
+      "lat": 44.901112
+    }
+  },
+  {
+    "id": 791373,
+    "name": "Doljevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.832581,
+      "lat": 43.19817
+    }
+  },
+  {
+    "id": 791452,
+    "name": "Dobrica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.84944,
+      "lat": 45.215
+    }
+  },
+  {
+    "id": 791471,
+    "name": "Dobanovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.225559,
+      "lat": 44.826939
+    }
+  },
+  {
+    "id": 791487,
+    "name": "Dimitrovgrad",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.77556,
+      "lat": 43.014172
+    }
+  },
+  {
+    "id": 791516,
+    "name": "Despotovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.446939,
+      "lat": 44.092499
+    }
+  },
+  {
+    "id": 791589,
+    "name": "Debeljača",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.6,
+      "lat": 45.07111
+    }
+  },
+  {
+    "id": 791672,
+    "name": "Čurug",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.07139,
+      "lat": 45.473061
+    }
+  },
+  {
+    "id": 791678,
+    "name": "Ćuprija",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.370001,
+      "lat": 43.927502
+    }
+  },
+  {
+    "id": 791704,
+    "name": "Čukarica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.42028,
+      "lat": 44.782501
+    }
+  },
+  {
+    "id": 791840,
+    "name": "Crna Trava",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.298809,
+      "lat": 42.809879
+    }
+  },
+  {
+    "id": 791887,
+    "name": "Crepaja",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.635559,
+      "lat": 45.009441
+    }
+  },
+  {
+    "id": 791890,
+    "name": "Čortanovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.020559,
+      "lat": 45.154442
+    }
+  },
+  {
+    "id": 791900,
+    "name": "Čoka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.14333,
+      "lat": 45.942501
+    }
+  },
+  {
+    "id": 791936,
+    "name": "Ćićevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.440849,
+      "lat": 43.718819
+    }
+  },
+  {
+    "id": 791948,
+    "name": "Čestereg",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.53194,
+      "lat": 45.56361
+    }
+  },
+  {
+    "id": 791949,
+    "name": "Česta",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.653891,
+      "lat": 43.430561
+    }
+  },
+  {
+    "id": 791998,
+    "name": "Čenta",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.387779,
+      "lat": 45.10833
+    }
+  },
+  {
+    "id": 792043,
+    "name": "Carevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.49333,
+      "lat": 44.679169
+    }
+  },
+  {
+    "id": 792078,
+    "name": "Čačak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.34972,
+      "lat": 43.891392
+    }
+  },
+  {
+    "id": 792173,
+    "name": "Bujanovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.76667,
+      "lat": 42.459171
+    }
+  },
+  {
+    "id": 792241,
+    "name": "Brus",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.033609,
+      "lat": 43.38361
+    }
+  },
+  {
+    "id": 792297,
+    "name": "Brežane",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.076389,
+      "lat": 44.649441
+    }
+  },
+  {
+    "id": 792308,
+    "name": "Brestovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.083059,
+      "lat": 44.040001
+    }
+  },
+  {
+    "id": 792317,
+    "name": "Bresno Polje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.16889,
+      "lat": 43.57917
+    }
+  },
+  {
+    "id": 792394,
+    "name": "Boževac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.39278,
+      "lat": 44.538059
+    }
+  },
+  {
+    "id": 792404,
+    "name": "Botoš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.63611,
+      "lat": 45.308331
+    }
+  },
+  {
+    "id": 792421,
+    "name": "Bosilegrad",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.47238,
+      "lat": 42.501099
+    }
+  },
+  {
+    "id": 792453,
+    "name": "Borča",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.458611,
+      "lat": 44.870281
+    }
+  },
+  {
+    "id": 792456,
+    "name": "Bor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.09528,
+      "lat": 44.078331
+    }
+  },
+  {
+    "id": 792467,
+    "name": "Boljevci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.2225,
+      "lat": 44.722221
+    }
+  },
+  {
+    "id": 792470,
+    "name": "Boljevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.95306,
+      "lat": 43.83028
+    }
+  },
+  {
+    "id": 792477,
+    "name": "Boleč",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.603331,
+      "lat": 44.72472
+    }
+  },
+  {
+    "id": 792479,
+    "name": "Boka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.82972,
+      "lat": 45.354439
+    }
+  },
+  {
+    "id": 792481,
+    "name": "Bojnik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.721001,
+      "lat": 43.012241
+    }
+  },
+  {
+    "id": 792502,
+    "name": "Bogovina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.940281,
+      "lat": 43.895
+    }
+  },
+  {
+    "id": 792530,
+    "name": "Bočar",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.282221,
+      "lat": 45.771111
+    }
+  },
+  {
+    "id": 792564,
+    "name": "Blace",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.28583,
+      "lat": 43.29528
+    }
+  },
+  {
+    "id": 792623,
+    "name": "Biljača",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.749439,
+      "lat": 42.355831
+    }
+  },
+  {
+    "id": 792651,
+    "name": "Beška",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.066111,
+      "lat": 45.129719
+    }
+  },
+  {
+    "id": 792680,
+    "name": "Belgrade",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.46513,
+      "lat": 44.804008
+    }
+  },
+  {
+    "id": 792718,
+    "name": "Belo Blato",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.375,
+      "lat": 45.272781
+    }
+  },
+  {
+    "id": 792721,
+    "name": "Beljevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.664169,
+      "lat": 44.359169
+    }
+  },
+  {
+    "id": 792764,
+    "name": "Belegiš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.33556,
+      "lat": 45.021671
+    }
+  },
+  {
+    "id": 792784,
+    "name": "Bela Palanka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.31111,
+      "lat": 43.21833
+    }
+  },
+  {
+    "id": 792794,
+    "name": "Bela Crkva",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.417219,
+      "lat": 44.897499
+    }
+  },
+  {
+    "id": 792807,
+    "name": "Torak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.60639,
+      "lat": 45.50861
+    }
+  },
+  {
+    "id": 792811,
+    "name": "Bečmen",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.208611,
+      "lat": 44.779442
+    }
+  },
+  {
+    "id": 792814,
+    "name": "Bečej",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.03331,
+      "lat": 45.616322
+    }
+  },
+  {
+    "id": 792819,
+    "name": "Bavanište",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.87583,
+      "lat": 44.81889
+    }
+  },
+  {
+    "id": 792821,
+    "name": "Batušinac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.822781,
+      "lat": 43.261108
+    }
+  },
+  {
+    "id": 792830,
+    "name": "Batočina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.081671,
+      "lat": 44.15361
+    }
+  },
+  {
+    "id": 792838,
+    "name": "Batajnica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.27639,
+      "lat": 44.90472
+    }
+  },
+  {
+    "id": 792851,
+    "name": "Bašaid",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.414169,
+      "lat": 45.641109
+    }
+  },
+  {
+    "id": 792864,
+    "name": "Barice",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.08333,
+      "lat": 45.183331
+    }
+  },
+  {
+    "id": 792866,
+    "name": "Barič",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.259439,
+      "lat": 44.652222
+    }
+  },
+  {
+    "id": 792888,
+    "name": "Baranda",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.443331,
+      "lat": 45.085281
+    }
+  },
+  {
+    "id": 792892,
+    "name": "Barajevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.415831,
+      "lat": 44.578892
+    }
+  },
+  {
+    "id": 792934,
+    "name": "Bancarevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.113331,
+      "lat": 43.271671
+    }
+  },
+  {
+    "id": 792937,
+    "name": "Banatsko Veliko Selo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.599171,
+      "lat": 45.827221
+    }
+  },
+  {
+    "id": 792940,
+    "name": "Banatsko Karađorđevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.563061,
+      "lat": 45.583328
+    }
+  },
+  {
+    "id": 792945,
+    "name": "Banatski Karlovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.016109,
+      "lat": 45.047218
+    }
+  },
+  {
+    "id": 792946,
+    "name": "Banatski Dvor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.51417,
+      "lat": 45.520561
+    }
+  },
+  {
+    "id": 792948,
+    "name": "Banatski Despotovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.664169,
+      "lat": 45.36528
+    }
+  },
+  {
+    "id": 792949,
+    "name": "Banatski Brestovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.805281,
+      "lat": 44.727219
+    }
+  },
+  {
+    "id": 792950,
+    "name": "Banatska Topola",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.465561,
+      "lat": 45.672501
+    }
+  },
+  {
+    "id": 792952,
+    "name": "Banatska Palanka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.32667,
+      "lat": 44.842499
+    }
+  },
+  {
+    "id": 793014,
+    "name": "Bačko Petrovo Selo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.075279,
+      "lat": 45.708061
+    }
+  },
+  {
+    "id": 793015,
+    "name": "Bačko Gradište",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.02833,
+      "lat": 45.53278
+    }
+  },
+  {
+    "id": 793034,
+    "name": "Babušnica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.411671,
+      "lat": 43.059719
+    }
+  },
+  {
+    "id": 793053,
+    "name": "Babičko",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.00083,
+      "lat": 43.137779
+    }
+  },
+  {
+    "id": 793093,
+    "name": "Arilje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.09556,
+      "lat": 43.753059
+    }
+  },
+  {
+    "id": 793111,
+    "name": "Aranđelovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.559999,
+      "lat": 44.306938
+    }
+  },
+  {
+    "id": 793112,
+    "name": "Aradac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.30139,
+      "lat": 45.38306
+    }
+  },
+  {
+    "id": 793134,
+    "name": "Alibunar",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.96583,
+      "lat": 45.08083
+    }
+  },
+  {
+    "id": 793138,
+    "name": "Aleksinac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.707781,
+      "lat": 43.541672
+    }
+  },
+  {
+    "id": 793141,
+    "name": "Aleksandrovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.21167,
+      "lat": 44.445
+    }
+  },
+  {
+    "id": 793142,
+    "name": "Aleksandrovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.0525,
+      "lat": 43.458611
+    }
+  },
+  {
+    "id": 793146,
+    "name": "Aldinac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.44556,
+      "lat": 43.529442
+    }
+  },
+  {
+    "id": 793171,
+    "name": "Ada",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.12583,
+      "lat": 45.802502
+    }
+  },
+  {
+    "id": 793760,
+    "name": "Golovša",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.35611,
+      "lat": 43.476391
+    }
+  },
+  {
+    "id": 793790,
+    "name": "Raška",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.61528,
+      "lat": 43.28722
+    }
+  },
+  {
+    "id": 834855,
+    "name": "Niška Banja",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.005699,
+      "lat": 43.295071
+    }
+  },
+  {
+    "id": 836063,
+    "name": "Sokolovica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.315559,
+      "lat": 43.215279
+    }
+  },
+  {
+    "id": 836698,
+    "name": "Rusko Selo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.571939,
+      "lat": 45.762779
+    }
+  },
+  {
+    "id": 836988,
+    "name": "Deliblato",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.03694,
+      "lat": 44.8325
+    }
+  },
+  {
+    "id": 837045,
+    "name": "Trnovče",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.105829,
+      "lat": 44.410831
+    }
+  },
+  {
+    "id": 838920,
+    "name": "Ledine",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.34833,
+      "lat": 44.802502
+    }
+  },
+  {
+    "id": 845271,
+    "name": "Voždovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.47583,
+      "lat": 44.778332
+    }
+  },
+  {
+    "id": 845667,
+    "name": "Zvezdara",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.53207,
+      "lat": 44.774651
+    }
+  },
+  {
+    "id": 862706,
+    "name": "Mrčajevci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.52944,
+      "lat": 43.8675
+    }
+  },
+  {
+    "id": 862740,
+    "name": "Prislonica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.43778,
+      "lat": 43.95306
+    }
+  },
+  {
+    "id": 862831,
+    "name": "Knić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.718889,
+      "lat": 43.926941
+    }
+  },
+  {
+    "id": 862839,
+    "name": "Dragobraća",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.824169,
+      "lat": 43.977219
+    }
+  },
+  {
+    "id": 865958,
+    "name": "Savski Venac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.45389,
+      "lat": 44.779171
+    }
+  },
+  {
+    "id": 865964,
+    "name": "Palilula",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.516109,
+      "lat": 44.811668
+    }
+  },
+  {
+    "id": 865971,
+    "name": "Stari Grad",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.461861,
+      "lat": 44.81789
+    }
+  },
+  {
+    "id": 3186366,
+    "name": "Zminjak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.47056,
+      "lat": 44.754719
+    }
+  },
+  {
+    "id": 3186376,
+    "name": "Zmajevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.685829,
+      "lat": 45.453609
+    }
+  },
+  {
+    "id": 3186764,
+    "name": "Žarkovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.934719,
+      "lat": 45.003609
+    }
+  },
+  {
+    "id": 3187297,
+    "name": "Vrbas",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.640829,
+      "lat": 45.571388
+    }
+  },
+  {
+    "id": 3187548,
+    "name": "Vladimirci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.78528,
+      "lat": 44.614719
+    }
+  },
+  {
+    "id": 3187641,
+    "name": "Višnjićevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.290001,
+      "lat": 44.965832
+    }
+  },
+  {
+    "id": 3187829,
+    "name": "Veternik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.759439,
+      "lat": 45.25333
+    }
+  },
+  {
+    "id": 3188009,
+    "name": "Veliki Radinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.673611,
+      "lat": 45.045559
+    }
+  },
+  {
+    "id": 3188361,
+    "name": "Varna",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.65139,
+      "lat": 44.67778
+    }
+  },
+  {
+    "id": 3188402,
+    "name": "Valjevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.898211,
+      "lat": 44.275131
+    }
+  },
+  {
+    "id": 3188417,
+    "name": "Vajska",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.11194,
+      "lat": 45.410831
+    }
+  },
+  {
+    "id": 3188429,
+    "name": "Uzveće",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.602501,
+      "lat": 44.88028
+    }
+  },
+  {
+    "id": 3188434,
+    "name": "Užice",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.84878,
+      "lat": 43.858608
+    }
+  },
+  {
+    "id": 3188725,
+    "name": "Tršić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.26889,
+      "lat": 44.50806
+    }
+  },
+  {
+    "id": 3188949,
+    "name": "Tovariševo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.325001,
+      "lat": 45.353611
+    }
+  },
+  {
+    "id": 3188955,
+    "name": "Tornjoš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.831671,
+      "lat": 45.87833
+    }
+  },
+  {
+    "id": 3189166,
+    "name": "Temerin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.88917,
+      "lat": 45.408611
+    }
+  },
+  {
+    "id": 3189185,
+    "name": "Tavankut",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.48333,
+      "lat": 46.033329
+    }
+  },
+  {
+    "id": 3189229,
+    "name": "Tabanović",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.64139,
+      "lat": 44.81361
+    }
+  },
+  {
+    "id": 3189363,
+    "name": "Svetićevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.85556,
+      "lat": 45.80278
+    }
+  },
+  {
+    "id": 3189595,
+    "name": "Subotica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.66667,
+      "lat": 46.099998
+    }
+  },
+  {
+    "id": 3189859,
+    "name": "Štitar",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.592779,
+      "lat": 44.791389
+    }
+  },
+  {
+    "id": 3189891,
+    "name": "Stepanovićevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.69833,
+      "lat": 45.413891
+    }
+  },
+  {
+    "id": 3189893,
+    "name": "Stejanovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.72333,
+      "lat": 45.056671
+    }
+  },
+  {
+    "id": 3190005,
+    "name": "Stara Moravica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.46611,
+      "lat": 45.868889
+    }
+  },
+  {
+    "id": 3190042,
+    "name": "Stanišić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.165279,
+      "lat": 45.939999
+    }
+  },
+  {
+    "id": 3190101,
+    "name": "Sremski Karlovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.934441,
+      "lat": 45.202499
+    }
+  },
+  {
+    "id": 3190103,
+    "name": "Sremska Mitrovica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.612221,
+      "lat": 44.976391
+    }
+  },
+  {
+    "id": 3190169,
+    "name": "Srbobran",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.80278,
+      "lat": 45.55389
+    }
+  },
+  {
+    "id": 3190335,
+    "name": "Sonta",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.098061,
+      "lat": 45.594719
+    }
+  },
+  {
+    "id": 3190342,
+    "name": "Sombor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.112221,
+      "lat": 45.77417
+    }
+  },
+  {
+    "id": 3190776,
+    "name": "Sjenica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.999439,
+      "lat": 43.27306
+    }
+  },
+  {
+    "id": 3190855,
+    "name": "Sinošević",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.63917,
+      "lat": 44.615559
+    }
+  },
+  {
+    "id": 3190922,
+    "name": "Šid",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.226391,
+      "lat": 45.12833
+    }
+  },
+  {
+    "id": 3190947,
+    "name": "Sevojno",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.898609,
+      "lat": 43.845001
+    }
+  },
+  {
+    "id": 3190958,
+    "name": "Ševarice",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.65917,
+      "lat": 44.867222
+    }
+  },
+  {
+    "id": 3191060,
+    "name": "Trešnjevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.986111,
+      "lat": 45.979439
+    }
+  },
+  {
+    "id": 3191124,
+    "name": "Selenča",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.29833,
+      "lat": 45.409168
+    }
+  },
+  {
+    "id": 3191256,
+    "name": "Šašinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.742781,
+      "lat": 44.97028
+    }
+  },
+  {
+    "id": 3191339,
+    "name": "Salaš Noćajski",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.586109,
+      "lat": 44.94722
+    }
+  },
+  {
+    "id": 3191340,
+    "name": "Salaš Crnobarski",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.39222,
+      "lat": 44.826111
+    }
+  },
+  {
+    "id": 3191376,
+    "name": "Šabac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.690001,
+      "lat": 44.74667
+    }
+  },
+  {
+    "id": 3191397,
+    "name": "Ruski Krstur",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.415831,
+      "lat": 45.562778
+    }
+  },
+  {
+    "id": 3191425,
+    "name": "Rumenka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.743891,
+      "lat": 45.29306
+    }
+  },
+  {
+    "id": 3191429,
+    "name": "Ruma",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.82222,
+      "lat": 45.00806
+    }
+  },
+  {
+    "id": 3191660,
+    "name": "Riđica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.105,
+      "lat": 45.986389
+    }
+  },
+  {
+    "id": 3191699,
+    "name": "Ribari",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.423889,
+      "lat": 44.709999
+    }
+  },
+  {
+    "id": 3191802,
+    "name": "Ravno Selo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.619169,
+      "lat": 45.450279
+    }
+  },
+  {
+    "id": 3191810,
+    "name": "Ravnje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.421671,
+      "lat": 44.943611
+    }
+  },
+  {
+    "id": 3191877,
+    "name": "Ratkovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.3325,
+      "lat": 45.454441
+    }
+  },
+  {
+    "id": 3192138,
+    "name": "Radenković",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.49333,
+      "lat": 44.924438
+    }
+  },
+  {
+    "id": 3192185,
+    "name": "Putinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.971939,
+      "lat": 44.99194
+    }
+  },
+  {
+    "id": 3192328,
+    "name": "Prnjavor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.388611,
+      "lat": 44.698891
+    }
+  },
+  {
+    "id": 3192404,
+    "name": "Prijepolje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.64056,
+      "lat": 43.371941
+    }
+  },
+  {
+    "id": 3192420,
+    "name": "Prigrevica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.08667,
+      "lat": 45.678612
+    }
+  },
+  {
+    "id": 3192450,
+    "name": "Priboj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.525829,
+      "lat": 43.583611
+    }
+  },
+  {
+    "id": 3193230,
+    "name": "Platičevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.79528,
+      "lat": 44.82111
+    }
+  },
+  {
+    "id": 3193295,
+    "name": "Pivnice",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.45528,
+      "lat": 45.46944
+    }
+  },
+  {
+    "id": 3193406,
+    "name": "Petrovaradin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.87944,
+      "lat": 45.24667
+    }
+  },
+  {
+    "id": 3193437,
+    "name": "Petkovica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.439171,
+      "lat": 44.665562
+    }
+  },
+  {
+    "id": 3193540,
+    "name": "Pećinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.966391,
+      "lat": 44.90889
+    }
+  },
+  {
+    "id": 3193635,
+    "name": "Parage",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.403061,
+      "lat": 45.413891
+    }
+  },
+  {
+    "id": 3193944,
+    "name": "Osečina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.601391,
+      "lat": 44.373058
+    }
+  },
+  {
+    "id": 3194196,
+    "name": "Ogar",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.946939,
+      "lat": 44.7925
+    }
+  },
+  {
+    "id": 3194209,
+    "name": "Odžaci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.26111,
+      "lat": 45.506672
+    }
+  },
+  {
+    "id": 3194243,
+    "name": "Obrovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.350281,
+      "lat": 45.320278
+    }
+  },
+  {
+    "id": 3194334,
+    "name": "Novo Selo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.34417,
+      "lat": 44.670559
+    }
+  },
+  {
+    "id": 3194360,
+    "name": "Novi Sad",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.836941,
+      "lat": 45.251671
+    }
+  },
+  {
+    "id": 3194407,
+    "name": "Nova Varoš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.81139,
+      "lat": 43.46056
+    }
+  },
+  {
+    "id": 3194474,
+    "name": "Noćaj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.556669,
+      "lat": 44.927219
+    }
+  },
+  {
+    "id": 3194480,
+    "name": "Njegoševo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.75222,
+      "lat": 45.763329
+    }
+  },
+  {
+    "id": 3194498,
+    "name": "Nikinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.821939,
+      "lat": 44.851669
+    }
+  },
+  {
+    "id": 3194608,
+    "name": "Nadalj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.92194,
+      "lat": 45.506939
+    }
+  },
+  {
+    "id": 3194918,
+    "name": "Mokra Gora",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.506109,
+      "lat": 43.790829
+    }
+  },
+  {
+    "id": 3194986,
+    "name": "Mladenovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.261669,
+      "lat": 45.303059
+    }
+  },
+  {
+    "id": 3195220,
+    "name": "Metković",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.54611,
+      "lat": 44.855282
+    }
+  },
+  {
+    "id": 3195520,
+    "name": "Maradik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.9925,
+      "lat": 45.102219
+    }
+  },
+  {
+    "id": 3195591,
+    "name": "Mali Zvornik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.10651,
+      "lat": 44.37344
+    }
+  },
+  {
+    "id": 3195707,
+    "name": "Mali Iđoš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.665279,
+      "lat": 45.708328
+    }
+  },
+  {
+    "id": 3195895,
+    "name": "Majur",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.65444,
+      "lat": 44.769718
+    }
+  },
+  {
+    "id": 3195939,
+    "name": "Maglić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.53167,
+      "lat": 45.362221
+    }
+  },
+  {
+    "id": 3195962,
+    "name": "Mačvanska Mitrovica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.598061,
+      "lat": 44.965561
+    }
+  },
+  {
+    "id": 3196153,
+    "name": "Loznica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.224171,
+      "lat": 44.534168
+    }
+  },
+  {
+    "id": 3196331,
+    "name": "Ljubovija",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.376671,
+      "lat": 44.189442
+    }
+  },
+  {
+    "id": 3196511,
+    "name": "Lipolist",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.50444,
+      "lat": 44.706669
+    }
+  },
+  {
+    "id": 3196517,
+    "name": "Lipnički Šor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.26667,
+      "lat": 44.58028
+    }
+  },
+  {
+    "id": 3196638,
+    "name": "Lešnica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.309999,
+      "lat": 44.6525
+    }
+  },
+  {
+    "id": 3196827,
+    "name": "Laćarak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.568609,
+      "lat": 45.00222
+    }
+  },
+  {
+    "id": 3196910,
+    "name": "Kupusina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.00972,
+      "lat": 45.736111
+    }
+  },
+  {
+    "id": 3196959,
+    "name": "Kulpin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.586941,
+      "lat": 45.400829
+    }
+  },
+  {
+    "id": 3196973,
+    "name": "Kula",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.52639,
+      "lat": 45.608891
+    }
+  },
+  {
+    "id": 3197095,
+    "name": "Krušedol",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.94722,
+      "lat": 45.113609
+    }
+  },
+  {
+    "id": 3197109,
+    "name": "Veprovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.364441,
+      "lat": 45.614719
+    }
+  },
+  {
+    "id": 3197111,
+    "name": "Krupanj",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.36194,
+      "lat": 44.365559
+    }
+  },
+  {
+    "id": 3197266,
+    "name": "Krivaja",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.60194,
+      "lat": 44.555279
+    }
+  },
+  {
+    "id": 3197397,
+    "name": "Kraljevci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.88389,
+      "lat": 44.97694
+    }
+  },
+  {
+    "id": 3197451,
+    "name": "Kozjak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.28417,
+      "lat": 44.58667
+    }
+  },
+  {
+    "id": 3197622,
+    "name": "Kosjerić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.90694,
+      "lat": 43.996109
+    }
+  },
+  {
+    "id": 3197862,
+    "name": "Kolut",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 18.92972,
+      "lat": 45.89278
+    }
+  },
+  {
+    "id": 3197946,
+    "name": "Koceljeva",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.81167,
+      "lat": 44.47361
+    }
+  },
+  {
+    "id": 3198080,
+    "name": "Klenje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.434441,
+      "lat": 44.80722
+    }
+  },
+  {
+    "id": 3198082,
+    "name": "Klenak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.71056,
+      "lat": 44.788059
+    }
+  },
+  {
+    "id": 3198140,
+    "name": "Kisač",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.728609,
+      "lat": 45.350281
+    }
+  },
+  {
+    "id": 3198267,
+    "name": "Karavukovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.188061,
+      "lat": 45.494999
+    }
+  },
+  {
+    "id": 3198410,
+    "name": "Kamenica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.7225,
+      "lat": 44.342499
+    }
+  },
+  {
+    "id": 3198582,
+    "name": "Joševa",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.408331,
+      "lat": 44.586391
+    }
+  },
+  {
+    "id": 3198637,
+    "name": "Jevremovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.663891,
+      "lat": 44.720829
+    }
+  },
+  {
+    "id": 3198711,
+    "name": "Jelenča",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.74667,
+      "lat": 44.721111
+    }
+  },
+  {
+    "id": 3198859,
+    "name": "Jarebice",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.42417,
+      "lat": 44.538891
+    }
+  },
+  {
+    "id": 3198868,
+    "name": "Jarak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.757219,
+      "lat": 44.916672
+    }
+  },
+  {
+    "id": 3198908,
+    "name": "Jamena",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.0625,
+      "lat": 44.885281
+    }
+  },
+  {
+    "id": 3198963,
+    "name": "Jadranska Lešnica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.353609,
+      "lat": 44.599171
+    }
+  },
+  {
+    "id": 3199103,
+    "name": "Irig",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.85833,
+      "lat": 45.101109
+    }
+  },
+  {
+    "id": 3199251,
+    "name": "Hrtkovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.770559,
+      "lat": 44.878891
+    }
+  },
+  {
+    "id": 3199348,
+    "name": "Horgoš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.9725,
+      "lat": 46.15556
+    }
+  },
+  {
+    "id": 3199475,
+    "name": "Gunaroš",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.82917,
+      "lat": 45.759171
+    }
+  },
+  {
+    "id": 3199872,
+    "name": "Gospođinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.987221,
+      "lat": 45.40361
+    }
+  },
+  {
+    "id": 3200189,
+    "name": "Gornja Rogatica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.46833,
+      "lat": 45.80722
+    }
+  },
+  {
+    "id": 3200272,
+    "name": "Gornja Bukovica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.78083,
+      "lat": 44.35194
+    }
+  },
+  {
+    "id": 3200547,
+    "name": "Glušci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.54833,
+      "lat": 44.89056
+    }
+  },
+  {
+    "id": 3200560,
+    "name": "Gložan",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.568609,
+      "lat": 45.277222
+    }
+  },
+  {
+    "id": 3200746,
+    "name": "Gakovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.06361,
+      "lat": 45.903332
+    }
+  },
+  {
+    "id": 3200859,
+    "name": "Feketić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.699169,
+      "lat": 45.664169
+    }
+  },
+  {
+    "id": 3200886,
+    "name": "Erdevik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.407499,
+      "lat": 45.11694
+    }
+  },
+  {
+    "id": 3201108,
+    "name": "Dublje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.50806,
+      "lat": 44.80056
+    }
+  },
+  {
+    "id": 3201216,
+    "name": "Drenovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.70944,
+      "lat": 44.8675
+    }
+  },
+  {
+    "id": 3201307,
+    "name": "Draginje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.759439,
+      "lat": 44.533611
+    }
+  },
+  {
+    "id": 3201353,
+    "name": "Doroslovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.190559,
+      "lat": 45.608608
+    }
+  },
+  {
+    "id": 3201418,
+    "name": "Donji Petrovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.975559,
+      "lat": 44.965
+    }
+  },
+  {
+    "id": 3201487,
+    "name": "Donji Dobrić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.330561,
+      "lat": 44.610828
+    }
+  },
+  {
+    "id": 3201935,
+    "name": "Dobrinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.9275,
+      "lat": 44.95306
+    }
+  },
+  {
+    "id": 3201946,
+    "name": "Dobrić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.58139,
+      "lat": 44.701939
+    }
+  },
+  {
+    "id": 3202059,
+    "name": "Despotovo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.524719,
+      "lat": 45.457779
+    }
+  },
+  {
+    "id": 3202085,
+    "name": "Deronje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.21833,
+      "lat": 45.45417
+    }
+  },
+  {
+    "id": 3202130,
+    "name": "Debrc",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.903061,
+      "lat": 44.623058
+    }
+  },
+  {
+    "id": 3202318,
+    "name": "Crvenka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.455561,
+      "lat": 45.658611
+    }
+  },
+  {
+    "id": 3202477,
+    "name": "Crna Bara",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.39472,
+      "lat": 44.873611
+    }
+  },
+  {
+    "id": 3202545,
+    "name": "Čokešina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.390829,
+      "lat": 44.653061
+    }
+  },
+  {
+    "id": 3202798,
+    "name": "Čelarevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.52528,
+      "lat": 45.26944
+    }
+  },
+  {
+    "id": 3202900,
+    "name": "Čajetina",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.71273,
+      "lat": 43.749771
+    }
+  },
+  {
+    "id": 3203083,
+    "name": "Bukor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.591391,
+      "lat": 44.5
+    }
+  },
+  {
+    "id": 3203139,
+    "name": "Buđanovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.862221,
+      "lat": 44.892502
+    }
+  },
+  {
+    "id": 3203497,
+    "name": "Brdarica",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.770559,
+      "lat": 44.553329
+    }
+  },
+  {
+    "id": 3203628,
+    "name": "Bosut",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.362499,
+      "lat": 44.93222
+    }
+  },
+  {
+    "id": 3203817,
+    "name": "Bogosavac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.59528,
+      "lat": 44.718891
+    }
+  },
+  {
+    "id": 3203822,
+    "name": "Bogojevo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.13278,
+      "lat": 45.53056
+    }
+  },
+  {
+    "id": 3203840,
+    "name": "Bogatić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.48056,
+      "lat": 44.837502
+    }
+  },
+  {
+    "id": 3204289,
+    "name": "Beočin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.720631,
+      "lat": 45.20829
+    }
+  },
+  {
+    "id": 3204307,
+    "name": "Belotić",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.547779,
+      "lat": 44.817501
+    }
+  },
+  {
+    "id": 3204376,
+    "name": "Begeč",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.62306,
+      "lat": 45.236671
+    }
+  },
+  {
+    "id": 3204390,
+    "name": "Bečej",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.995279,
+      "lat": 45.609718
+    }
+  },
+  {
+    "id": 3204517,
+    "name": "Banovo Polje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.446939,
+      "lat": 44.911388
+    }
+  },
+  {
+    "id": 3204615,
+    "name": "Bajša",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.584999,
+      "lat": 45.779171
+    }
+  },
+  {
+    "id": 3204623,
+    "name": "Bajina Bašta",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.567499,
+      "lat": 43.970829
+    }
+  },
+  {
+    "id": 3204635,
+    "name": "Badovinci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.371389,
+      "lat": 44.785831
+    }
+  },
+  {
+    "id": 3204661,
+    "name": "Bačko Dobro Polje",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.689171,
+      "lat": 45.497501
+    }
+  },
+  {
+    "id": 3204662,
+    "name": "Bački Vinogradi",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.866671,
+      "lat": 46.133331
+    }
+  },
+  {
+    "id": 3204663,
+    "name": "Bački Sokolac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.53944,
+      "lat": 45.849442
+    }
+  },
+  {
+    "id": 3204665,
+    "name": "Bački Petrovac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.591669,
+      "lat": 45.360561
+    }
+  },
+  {
+    "id": 3204667,
+    "name": "Bački Jarak",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.875,
+      "lat": 45.370281
+    }
+  },
+  {
+    "id": 3204670,
+    "name": "Bački Breg",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 18.92889,
+      "lat": 45.921391
+    }
+  },
+  {
+    "id": 3204672,
+    "name": "Bačka Topola",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.6318,
+      "lat": 45.815159
+    }
+  },
+  {
+    "id": 3204674,
+    "name": "Bačka Palanka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.391939,
+      "lat": 45.250832
+    }
+  },
+  {
+    "id": 3204692,
+    "name": "Bač",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.23667,
+      "lat": 45.391941
+    }
+  },
+  {
+    "id": 3204793,
+    "name": "Apatin",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 18.98472,
+      "lat": 45.671108
+    }
+  },
+  {
+    "id": 3214575,
+    "name": "Bešenovački Prnjavor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.70611,
+      "lat": 45.11306
+    }
+  },
+  {
+    "id": 3214591,
+    "name": "Dobrodol",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.93972,
+      "lat": 45.041111
+    }
+  },
+  {
+    "id": 3216381,
+    "name": "Popare",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.878889,
+      "lat": 44.26194
+    }
+  },
+  {
+    "id": 3217047,
+    "name": "Pocerski Pričinović",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.70722,
+      "lat": 44.722221
+    }
+  },
+  {
+    "id": 3300709,
+    "name": "Ðurići",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.41139,
+      "lat": 43.824718
+    }
+  },
+  {
+    "id": 3302765,
+    "name": "Zlatibor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.700029,
+      "lat": 43.716839
+    }
+  },
+  {
+    "id": 3303212,
+    "name": "Rogići",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.691389,
+      "lat": 43.88472
+    }
+  },
+  {
+    "id": 3318618,
+    "name": "Sokolovo Brdo",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.805559,
+      "lat": 43.13694
+    }
+  },
+  {
+    "id": 3318643,
+    "name": "Osječenik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.858891,
+      "lat": 43.145279
+    }
+  },
+  {
+    "id": 3318867,
+    "name": "Doline",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.873329,
+      "lat": 45.960281
+    }
+  },
+  {
+    "id": 3318985,
+    "name": "Rumska",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.575279,
+      "lat": 44.571671
+    }
+  },
+  {
+    "id": 3319247,
+    "name": "Šinovik",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.72167,
+      "lat": 43.74556
+    }
+  },
+  {
+    "id": 3337474,
+    "name": "Morović",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.210279,
+      "lat": 44.997501
+    }
+  },
+  {
+    "id": 3343730,
+    "name": "Sremski Karlovci",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.924721,
+      "lat": 45.200001
+    }
+  },
+  {
+    "id": 6619277,
+    "name": "Knjazevac",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.250231,
+      "lat": 43.564838
+    }
+  },
+  {
+    "id": 7577033,
+    "name": "Sumulicë",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 21.733999,
+      "lat": 42.386822
+    }
+  },
+  {
+    "id": 7581582,
+    "name": "Bor",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 22.25,
+      "lat": 44.366669
+    }
+  },
+  {
+    "id": 7581796,
+    "name": "South Bačka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.88917,
+      "lat": 45.408611
+    }
+  },
+  {
+    "id": 7581797,
+    "name": "South Banat",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 20.96583,
+      "lat": 45.08083
+    }
+  },
+  {
+    "id": 7581911,
+    "name": "West Bačka",
+    "state": "",
+    "country": "RS",
+    "coord": {
+      "lon": 19.112221,
+      "lat": 45.77417
+    }
+  }
+]

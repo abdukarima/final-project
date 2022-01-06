@@ -1,0 +1,40 @@
+﻿<Window x:Class="WeatherForecast.Views.Windows.CityWeatherDetail_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeatherForecast.Views.Windows"
+        xmlns:usercontrols="clr-namespace:WeatherForecast.Views.UserControls"
+        mc:Ignorable="d" Background="#e6f5ff"
+        Title="Next 7 Days Weather" Height="470" Width="1000">
+    <Grid x:Name="grid_main">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Margin="20" Grid.Row="0" FontSize="60" Content="{Binding City.Name}"/>
+        <Grid x:Name="grid_7DaysWeather" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <usercontrols:DailyInformations_UserControl Margin="10" x:Name="day1" Grid.Column="0"></usercontrols:DailyInformations_UserControl>
+            <usercontrols:DailyInformations_UserControl Margin="10" x:Name="day2" Grid.Column="1"></usercontrols:DailyInformations_UserControl>
+            <usercontrols:DailyInformations_UserControl Margin="10" x:Name="day3" Grid.Column="2"></usercontrols:DailyInformations_UserControl>
+            <usercontrols:DailyInformations_UserControl Margin="10" x:Name="day4" Grid.Column="3"></usercontrols:DailyInformations_UserControl>
+            <usercontrols:DailyInformations_UserControl Margin="10" x:Name="day5" Grid.Column="4"></usercontrols:DailyInformations_UserControl>
+            <usercontrols:DailyInformations_UserControl Margin="10" x:Name="day6" Grid.Column="5"></usercontrols:DailyInformations_UserControl>
+            <usercontrols:DailyInformations_UserControl Margin="10" x:Name="day7" Grid.Column="6"></usercontrols:DailyInformations_UserControl>
+        </Grid>
+    </Grid>
+</Window>
